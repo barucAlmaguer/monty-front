@@ -2,11 +2,34 @@
 
 This is the base project to create front apps fot Valiot.
 
+## Getting Started
+
+### Clone the project
+
+`git clone --depth 1 https://github.com/DisruptiveAngels/valiot-test-front`
+
+> This create a shallow clone with just the latest state.
+
+### Change remote
+
+Remove origin remote
+
+`git remote rm origin`
+
+Add new remote
+
+`git remote add origin https://github.com/user/repo.git`
+
+> This assumes that you already have the new repository created
+
+Push `master`
+
+`git push origin -u master`
+
 ## Install
 
 Install project pependencies with `yarn`:
 > You can use `npm`
-
 
 ```sh
 yarn install
@@ -60,7 +83,7 @@ After creation, your project should look like this:
     └── screens/
 ```
 
-<br><br>
+<br>
 
 ----
 

@@ -6,7 +6,11 @@
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+    "gh-pages": "^1.2.0",
+    "node-sass-chokidar": "^1.3.3",
+    "npm-run-all": "^4.1.3",
+    "valiot-framework": "^0.0.4"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -20,10 +24,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "devDependencies": {
-    "gh-pages": "^1.2.0",
-    "node-sass-chokidar": "^1.3.3",
-    "npm-run-all": "^4.1.3",
-    "valiot-framework": "^0.0.4"
-  }
+  "devDependencies": {}
 }
