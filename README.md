@@ -72,6 +72,7 @@ After creation, your project should look like this:
     ├── App.test.js
     ├── Index.js
     ├── registerServiceWorker.js
+    ├── actions/
     ├── assets/
     │ ├── images/
     │ └── stylesheets/
@@ -80,6 +81,8 @@ After creation, your project should look like this:
     │   ├── components/
     │   └── layouts/
     ├── components/
+    ├── containers/
+    ├── reducers/
     └── screens/
 ```
 
