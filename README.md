@@ -1,6 +1,6 @@
-# Playground for valiot front apps
+# Valiot Template App
 
-This is the base project to create front apps fot Valiot.
+This is the base project to create front apps for Valiot.
 
 ## Getting Started
 
@@ -61,10 +61,11 @@ After creation, your project should look like this:
   ├── package.json
   ├── pull_request_template.md
   ├── README.md
-  ├── node_modules/
   ├── plublic/
+  │ ├── favicon/
+  │ ├── images/
+  │ ├── browserconfig.xml
   │ ├── CNAME
-  │ ├── favicon.ico
   │ ├── index.html
   │ └── manifest.json
   └── src/
@@ -72,6 +73,7 @@ After creation, your project should look like this:
     ├── App.test.js
     ├── Index.js
     ├── registerServiceWorker.js
+    ├── versionTracker.json
     ├── actions/
     ├── assets/
     │ ├── images/

@@ -1,13 +1,11 @@
-import React, { Component } from "react";
-import WelcomeTitle from "../components/WelcomeTitle";
-import ExampleContainer from "../containers/exampleContainer";
+import React, { Component } from 'react'
+import WelcomeTitle from '../components/WelcomeTitle'
 
 class Index extends Component {
-  render() {
+  render () {
     return (
       <section className='Index'>
         <WelcomeTitle />
-        <ExampleContainer />
       </section>
     )
   }
