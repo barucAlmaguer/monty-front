@@ -6,7 +6,7 @@ This is the base project to create front apps for Valiot.
 
 ### Clone the project
 
-`git clone --depth 1 git@github.com:valiot/valiot-template-front.git`
+`git clone git@github.com:valiot/valiot-template-front.git`
 
 > This create a shallow clone with just the latest state.
 
