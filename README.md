@@ -6,9 +6,7 @@ This is the base project to create front apps for Valiot.
 
 ### Clone the project
 
-`git clone --depth 1 https://github.com/DisruptiveAngels/valiot-test-front`
-
-> This create a shallow clone with just the latest state.
+`git clone git@github.com:valiot/valiot-template-front.git`
 
 ### Change remote
 
@@ -48,7 +46,7 @@ Build the project for production
 #### `yarn deploy`
 Deploy the project
 > First you need to add the new domain in `CNAME` file in the `./public` folder,<br>
-> then change `"homepage": "https://test-front.valiot.io"` in `package.json` with the new domain.
+> then change `"homepage": "https://your-project.valiot.io"` in `package.json` with the new domain.
 
 ## Folder Structure
 After creation, your project should look like this:
