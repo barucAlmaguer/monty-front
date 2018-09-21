@@ -8,8 +8,6 @@ This is the base project to create front apps for Valiot.
 
 `git clone git@github.com:valiot/valiot-template-front.git`
 
-> This create a shallow clone with just the latest state.
-
 ### Change remote
 
 Remove origin remote
