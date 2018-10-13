@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import {Route, Redirect, Switch} from 'react-router-dom'
 // Components
-import Login from 'valiot-auth'
+import { Login }from 'valiot-framework'
 import { Sidebar } from 'valiot-framework'
 import { Item } from 'valiot-framework'
 import { Activity } from 'valiot-framework'
