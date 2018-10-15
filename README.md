@@ -26,7 +26,7 @@ Push `master`
 
 ## Install
 
-Install project pependencies with `yarn`:
+Install project dependencies with `yarn`:
 > You can use `npm`
 
 ```sh
@@ -90,4 +90,4 @@ After creation, your project should look like this:
 
 ----
 
-Made by 😇 [Disruptive Angels](https://disruptiveangels.com/)
+Made by [Valiot](https://valiot.io/)
