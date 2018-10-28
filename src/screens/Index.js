@@ -5,7 +5,7 @@ class Index extends Component {
   render () {
     return (
       <section className='Index'>
-        <WelcomeTitle />
+        <h1>HOLA MUNDO</h1>
       </section>
     )
   }

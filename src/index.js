@@ -17,7 +17,7 @@ const versionTracker = require('./versionTracker.json')
 const store = createStore(rootReducer)
 
 const httpLink = createHttpLink({
-  uri: 'https://heineken-api.valiot.app/api/'
+  uri: 'http://Barux301.local:4000/api/'
 })
 
 const authLink = setContext((_, { headers }) => {
